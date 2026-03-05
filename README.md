@@ -32,7 +32,6 @@
 <p align="center">
   <img src="./docs/images/banner.png" alt="WriterClaw Banner" width="100%"/>
 </p>
----
 
 <h2 style="font-size: 28px; font-weight: bold; border-bottom: 2px solid #333; padding-bottom: 10px;">目录</h2>
 
