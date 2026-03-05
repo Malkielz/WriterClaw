@@ -383,7 +383,7 @@ docker run -d -p 3000:3000 writerclaw-frontend</code></pre>
 <h3 style="font-size: 22px; font-weight: bold; margin-top: 30px;">目录大纲</h3>
 
 <p align="center">
-  <img src="./docs/images/editor.jpeg
+  <img src="./docs/images/editor.png
   " alt="目录大纲" width="800"/>
 </p>
 
