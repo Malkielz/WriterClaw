@@ -2,48 +2,8 @@
 
 <meta name="color-scheme" content="light dark">
 
-<style>
-@media (prefers-color-scheme: dark) {
-  body {
-    background-color: #1a1a1a;
-    color: #e0e0e0;
-  }
-  h1, h2, h3, h4, h5, h6 {
-    color: #ffffff !important;
-  }
-  a {
-    color: #409eff !important;
-  }
-  p, li, td, th, span {
-    color: #e0e0e0 !important;
-  }
-  pre, code {
-    background-color: #2d2d2d !important;
-    color: #e0e0e0 !important;
-  }
-  blockquote {
-    background-color: #1a1a1a !important;
-    border-left-color: #409eff !important;
-  }
-  table {
-    background-color: #2d2d2d !important;
-  }
-  th, td {
-    border-color: #404040 !important;
-    color: #e0e0e0 !important;
-  }
-  tr:nth-child(even) {
-    background-color: #252525 !important;
-  }
-  img {
-    opacity: 0.9;
-  }
-}
-</style>
 
-<p align="center">
-  <img src="./docs/images/banner.png" alt="WriterClaw Banner" width="100%"/>
-</p>
+
 
 <p align="center">
   <a href="https://github.com/yourusername/WriterClaw">
@@ -72,8 +32,9 @@
 <p align="center" style="font-size: 18px; color: #666;">
   WriterClaw - AI驅動クリエイティブライティングアシスタント
 </p>
-
----
+<p align="center">
+  <img src="./docs/images/banner.png" alt="WriterClaw Banner" width="100%"/>
+</p>
 
 <h2 style="font-size: 28px; font-weight: bold; border-bottom: 2px solid #333; padding-bottom: 10px;">目次</h2>
 
