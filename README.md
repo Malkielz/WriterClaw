@@ -407,7 +407,7 @@ docker run -d -p 3000:3000 writerclaw-frontend</code></pre>
 <p style="font-size: 18px; line-height: 1.8;">
   MIT License - Copyright (c) 2024 WriterClaw
 </p>
-[![Star History Chart](https://api.star-history.com/svg?repos=owner/repo&type=Date)](https://star-history.com/#owner/repo&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=Malkielz/WriterClaw&type=Date)](https://star-history.com/#Malkielz/WriterClaw&Date)
 ---
 
 <p align="center" style="font-size: 18px; margin-top: 40px;">
